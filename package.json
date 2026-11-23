@@ -2,6 +2,7 @@
   "name": "foldcheck",
   "private": true,
   "version": "0.1.0",
+  "description": "Alpha Fold Checker scores AlphaFold structures for physical plausibility and estimated accuracy.",
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 8734",
